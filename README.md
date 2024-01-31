@@ -1,0 +1,1 @@
+https://mangacon.netlify.app/
